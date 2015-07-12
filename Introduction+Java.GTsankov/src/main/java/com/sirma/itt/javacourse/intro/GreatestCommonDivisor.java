@@ -19,6 +19,7 @@ package com.sirma.itt.javacourse.intro;
  * @author Georgi Tsankov
  */
 public class GreatestCommonDivisor {
+
 	/**
 	 * this is the method that calculates the Greatest Common Divisor. First, it
 	 * checks if both passed variables are zero.If one or both are its clear
